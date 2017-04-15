@@ -1,0 +1,102 @@
+[
+  {
+    "first": "Paul",
+    "last": "Irish",
+    "position": "Front End Developer",
+    "img":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/03a/09d/328cbd0.jpg",
+    "linkedin":"https://www.linkedin.com/in/paulirish/",
+    "github":"https://github.com/paulirish",
+    "twitter":"https://twitter.com/paul_irish",
+    "bio": "Paul Irish is an American front-end engineer and a developer advocate for the Google Chrome web browser. He is widely recognized as a thought leader and a leading evangelist in web technologies, including JavaScript and CSS. In 2011, he was named Developer of the Year by The Net Awards for his contributions to the web development landscape and his participation in many popular open source projects."
+  },
+  {
+    "first": "Azat",
+    "last": "Mardan",
+    "position": "Technology Fellow",
+    "img":"https://udemy-images.udemy.com/user/200_H/344146_a5cd_2.jpg",
+    "linkedin":"https://www.linkedin.com/in/azatm/",
+    "github":"https://github.com/azat-co?tab=repositories",
+    "twitter":"https://twitter.com/azat_co",
+    "bio": "Azat Mardan taught over 1,000 software engineers in-person and even more online, by books and video. He published 14+ books and dozens online courses. He has over 15+ years of experience in web, mobile and software development. With a Bachelor’s Degree in Informatics and a Master of Science in Information Systems Technology degree, Azat possesses deep academic knowledge as well as extensive practical experience."
+  },
+  {
+    "first": "Jafar",
+    "last": "Husain",
+    "position": "Technology Lead",
+    "img":"https://avatars.githubusercontent.com/u/466863?size=200",
+    "linkedin":"https://www.linkedin.com/in/jafar-husain-7857567/",
+    "github":"https://github.com/jhusain",
+    "twitter":"https://twitter.com/jhusain",
+    "bio": "A highly skilled software developer with twelve-years of experience designing and developing enterprise software for prestigious corporations and organizations.Architect of the Falcor protocol, an asynchronous, multiplexed network transport layer built on top of HTTP. Netflix uses the protocol to serve millions of requests everyday."
+  },
+  {
+    "first": "Ray",
+    "last": "Villalobos",
+    "position": "Staff Author",
+    "img":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAqkAAAAJDcxMDVjZWQ4LTc2YjEtNGRlYS1hYmU3LTcwNmI3Mzk5OTdkZA.jpg",
+    "linkedin":"https://www.linkedin.com/in/planetoftheweb/",
+    "github":"https://github.com/planetoftheweb",
+    "twitter":"https://twitter.com/planetoftheweb",
+    "bio": "Ray Villalobos is a full-stack design/development teacher and a full-time author at LinkedIn. His courses are focused on front-end design and development topics such as JavaScript, AngularJS, and Sass, plus frameworks like Bootstrap and tools that will make you a faster, more effective, and efficient developer. He has a clear and practical teaching style and will help you improve your skills through real-world exercises and projects."
+  },
+  {
+    "first": "Brendan",
+    "last": "Eich",
+    "position": "CEO/President",
+    "img":"https://www.gannett-cdn.com/-mm-/3b731838811d2a40cbca78433b27d6575a4379db/c=0-53-2004-2057&r=x203&c=200x200/local/-/media/USATODAY/WiresImages/2014/04/04/061aed0040806a0d500f6a706700e569.jpg",
+    "linkedin":"https://www.linkedin.com/in/brendaneich/",
+    "github":"https://github.com/brendaneich",
+    "twitter":"https://twitter.com/BrendanEich",
+    "bio": "Brendan Eich is an American technologist and creator of the JavaScript programming language. He co-founded the Mozilla project, the Mozilla Foundation and the Mozilla Corporation, and served as the Mozilla Corporation's chief technical officer and briefly its chief executive officer.He is the CEO of Brave Software."
+  },
+  {
+    "first": "Dan",
+    "last": "Shaw",
+    "position": "CTO and Co-Founder of NodeSource",
+    "img":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/076/3fe/0b3a921.jpg",
+    "linkedin":"https://www.linkedin.com/in/dshaw/",
+    "github":"https://github.com/dshaw",
+    "twitter":"https://twitter.com/dshaw",
+    "bio": "Founders, team leads, developers, creatives: in general, I'd love to talk to you. Even if we cannot collaborate on something right now, I'm always interested in meeting people who are passionate about what they do. I have a number of opportunities that I'm hiring for at NodeSource and through a large number of the organizations that I work with or advise."
+  },
+  {
+    "first": "Tracy",
+    "last": "Lee",
+    "position": "Co-Founder at This Dot",
+    "img":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAfWAAAAJDgyYjFlNjVjLTcwOWMtNDY2Mi1hMzVkLTc5MWQ1ZDFlMDQxNw.jpg",
+    "linkedin":"https://www.linkedin.com/in/tracyslee/",
+    "github":"https://github.com/ladyleet",
+    "twitter":"https://twitter.com/ladyleet",
+    "bio": "Tracy Lee is a serial entrepreneur and Google Developer Expert who loves to build companies and communities. She is the co-founder of This Dot Media and This Dot Labs. Her most recent love is coding in Angular, React, and Ember. In her free time, she runs Venture Hacked with the mission to help create relationships between startups and investors."
+  },
+  {
+    "first": "David",
+    "last": "Walsh",
+    "position": "Senior Software Engineer at Mozilla",
+    "img":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdAAAAAJDdjMzc3ZmE2LTEyYmQtNGNmNi05YTc4LThiN2VmNjY4MGQ1NA.jpg",
+    "linkedin":"https://www.linkedin.com/in/davidjameswalsh/",
+    "github":"https://github.com/argszero",
+    "twitter":"https://twitter.com/davidwalshblog",
+    "bio": "My goal is simple: Do everything I can to become the best front-end developer in the world. Specialties: JavaScript, React, Django/Python, ES6, WebVR, MooTools, jQuery, Dojo Toolkit, AMD JavaScript, HTML5, CSS, CSS Animations, Mobile, PHP, MySQL, Usability, Accessibility, SVG, Canvas "
+  },
+  {
+    "first": "Kristian",
+    "last": "Roebuck",
+    "position": "JavaScript Application Developer",
+    "img":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/5/005/01a/392/3c677ba.jpg",
+    "linkedin":"https://www.linkedin.com/in/kristian-roebuck-98593760/",
+    "github":"https://github.com/roebuk",
+    "twitter":"https://twitter.com/roebuk",
+    "bio": "I take great pride in building slick, modern web apps using the best technology around. Recent tools I've worked with include: JavaScript (ES2015),React, Redux, ImmutableJS, Express, Webpack etc."
+  },
+  {
+    "first": "Ben",
+    "last": "Lesh",
+    "position": "Software Engineer at Google, RxJS 5+ Project Lead",
+    "img":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAlqAAAAJDQ4NDViOTNmLWU3YjMtNGRjZC1hMmVlLTQwMjEwZDYzMjgwOA.jpg",
+    "linkedin":"https://www.linkedin.com/in/blesh/",
+    "github":"https://github.com/linkedin/hopscotch",
+    "twitter":"https://twitter.com/BenLesh",
+    "bio": "Ben Lesh is a Senior UI Engineer at Netflix. He is also the development lead for RxJS 5, the latest version of RxJS"
+  }
+]

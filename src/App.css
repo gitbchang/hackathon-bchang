@@ -1,0 +1,85 @@
+html{
+  overflow-x:hidden;
+}
+body{
+margin:0;
+padding:0;
+width:100%;
+min-height:800px;
+/* IE10+ */
+background-image: -ms-radial-gradient(center, ellipse farthest-corner, #6F5580 0%, #3C2E45 100%);
+
+/* Mozilla Firefox */
+background-image: -moz-radial-gradient(center, ellipse farthest-corner, #6F5580 0%, #3C2E45 100%);
+
+/* Opera */
+background-image: -o-radial-gradient(center, ellipse farthest-corner, #6F5580 0%, #3C2E45 100%);
+
+/* Webkit (Safari/Chrome 10) */
+background-image: -webkit-gradient(radial, center center, 0, center center, 286, color-stop(0, #6F5580), color-stop(100, #3C2E45));
+
+/* Webkit (Chrome 11+) */
+background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #6F5580 0%, #3C2E45 100%);
+
+/* W3C Markup */
+background-image: radial-gradient(ellipse farthest-corner at center, #6F5580 0%, #3C2E45 100%);
+}
+.header-container{
+  background: url(./img/pineapple.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  border-radius: 8px;
+  min-height:100px;
+}
+.header-container h1{
+  color:#EFD95E;
+  font-size:6vw;
+  font-weight:bold;
+  font-family: 'Poppins', sans-serif;
+  padding:8%;
+  text-shadow:2px 3px 2px black;
+}
+.bg-faded {
+  background-color: #F0EFB4;
+  width: 100%;
+  height: 55px;
+}
+.space-top{
+  margin-top:1%;
+}
+.custom-sizing{
+  width:25%;
+  float:left;
+  margin:8px;
+}
+.card-spacing{
+  padding:8px;
+  margin-bottom: 0px;
+}
+.card-space{
+  margin-bottom:10px;
+}
+.social-section img{
+  width:20%;
+  margin-left:1%;
+}
+.expert-addition{
+  text-align:center;
+  color: white;
+  font-size:2vw;
+  text-decoration:underline;
+}
+footer{
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    margin-top:10px;
+    background-color: #f5f5f5;
+}
+.text-muted {
+  color: #636c72!important;
+  font-size: 13px;
+  font-weight: 100;
+}
